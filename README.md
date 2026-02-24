@@ -1,14 +1,34 @@
-<!--
-**Mugentoki/Mugentoki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mugentoki
 
-Here are some ideas to get you started:
+Frontend developer from Germany working on web tools and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working mainly with Vue, Nuxt, and TypeScript
+- Interested in architecture, performance, and maintainability
+- Using GitHub for experiments and personal tooling
+- Currently building mugentoki.dev (early development)
+
+---
+
+## Active Projects
+
+### Stellaris Map Editor
+3D browser-based map editor built with Vue and TypeScript.  
+Work in progress – architecture improvements and feature expansion ongoing.
+
+https://github.com/Mugentoki/stellaris-map-editor
+
+---
+
+### Shroudingers Parser
+TypeScript parser library for Clausewitz scripting files used in Stellaris.  
+Work in progress – performance improvements and API refinement planned.
+
+https://github.com/Mugentoki/shroudingers-parser
+
+---
+
+### mugentoki.dev
+Personal website and project hub built with Nuxt.  
+Work in progress – initial architecture and project showcase in development.
+
+Work in progress.
