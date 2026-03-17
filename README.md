@@ -27,6 +27,14 @@ https://github.com/Mugentoki/shroudingers-parser
 
 ---
 
+### WCAG Reporter
+A simple WCAG scanner to run locally on your machine (or on a server using cronjobs).
+Let's you configure projects and URLs to scan, and automatically creates reports based on WCAG guidelines.
+
+https://github.com/Mugentoki/a11y-audit
+
+---
+
 ### mugentoki.dev
 Personal website and project hub built with Nuxt.  
 Work in progress – initial architecture and project showcase in development.
